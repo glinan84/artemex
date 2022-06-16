@@ -1,0 +1,16 @@
+.logoMexicano{
+    border-radius: 5px;
+    border: black;
+    width: 100px;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+}
+
+.submenu{
+    display: flex;
+    flex-direction: column;
+    column-width: 10px;
+}
